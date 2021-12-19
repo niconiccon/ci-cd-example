@@ -8,6 +8,7 @@ class App extends React.Component {
       <div className="App">
         <div className="title">
           I am an Example App Running in the Cloud1
+          Thanks for React!!
         </div>
       </div>
     );
